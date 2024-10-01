@@ -1,4 +1,4 @@
-package my.mood.Spring_Security.Auth;
+package my.mood.Spring_Security.Jwt;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 
